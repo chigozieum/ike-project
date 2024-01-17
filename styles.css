@@ -21,7 +21,9 @@ hr {
   .btn:hover {
     background-color: #00ff6c;
     color: #232323; }
-
+nav {
+	display: flex;
+}
 h2 {
   text-transform: uppercase;
   font-weight: 700; }
